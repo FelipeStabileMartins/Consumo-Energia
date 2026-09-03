@@ -1,8 +1,7 @@
 ![Consumo de energia elétrica e seu custo](https://img.shields.io/badge/Consumo%20de%20energia%20el%C3%A9trica%20e%20seu%20custo-yellow)
 
-![Projeto](https://img.shields.io/badge/Projeto-red?style=flat&logo=Formula&logoColor=Blue)
+![Static Badge](https://img.shields.io/badge/%F0%9F%93%8C%20Projeto-blue?style=flat&logo=Formula&logoColor=Blue)
 
-📌  
 
 Este projeto em Python foi criado para praticar o ciclo Entrada → Processamento →
 Saída.
