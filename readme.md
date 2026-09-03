@@ -27,5 +27,5 @@ Para executar o programa, abra o terminal na pasta do projeto e utilize:
 python app.py
 
 Depois, informe os dados solicitados pelo programa.
-Nome do Aparelho, Watts e o tempo medio de uso da geladeira.
+Nome do aparelho, potencia em Watts e o tempo medio de uso da geladeira.
 
