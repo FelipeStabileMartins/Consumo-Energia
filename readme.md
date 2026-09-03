@@ -8,9 +8,9 @@ Saída.
 
 Meu projeto é uma calculadora de consumo de energia e seu custo, sendo solicitado o nome do aparelho, sua potencia em watts e tempo medio de uso diario em horas e tambem calculando o gasto medio com o valor de 0,75 por quilowatts hora.
 
-![Formula](https://img.shields.io/badge/Formula-blue?style=flat&logo=Formula&logoColor=Blue)
+![Static Badge](https://img.shields.io/badge/%F0%9F%A7%AE%20Formula-Blue?style=flat&logo=Formula&logoColor=Blue)
 
-🧮
+
 
 Consumo mensal:
 potencia * horas_Dia x 30 / 1000
@@ -18,9 +18,9 @@ potencia * horas_Dia x 30 / 1000
 Custo estimado:
 consumo mensal × 0,75
 
-![Execultar](https://img.shields.io/badge/Executar-red?style=flat&logo=Formula&logoColor=Blue)
+![Static Badge](https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Execultar-red?style=flat&logo=Formula&logoColor=Blue)
 
-▶️
+
 
 Como executar
 Para executar o programa, abra o terminal na pasta do projeto e utilize:
